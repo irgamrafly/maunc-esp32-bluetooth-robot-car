@@ -151,3 +151,14 @@ Universitas Siliwangi
 ## 📜 License
 
 This project is created for educational and robotics development purposes.
+
+## 📂 Project Structure
+
+```text
+MAUNC-ESP32-Bluetooth-Robot-Car/
+│
+├── robot_car.ino
+├── README.md
+│
+└── images/
+    └── robot-car.jpg
